@@ -1,0 +1,6 @@
+baseURL=https://www.saucedemo.com/
+username=standard_user
+password=secret_sauce
+chromepath=./Drivers\\chromedriver.exe
+geckopath=./Drivers\\geckodriver.exe
+Edgedriver=	./Drivers\\msedgedriver.exe

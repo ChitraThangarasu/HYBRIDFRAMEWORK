@@ -1,0 +1,7 @@
+com\project\testCases\BaseClassw.class
+com\project\testCases\Tc_002.class
+com\project\pageObjects\LoginPage.class
+com\project\Utilities\Reporting.class
+com\project\Utilities\XLUtils.class
+com\project\testCases\Tc_001.class
+com\project\Utilities\ReadConfig.class
